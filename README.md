@@ -19,7 +19,7 @@ This project is a React application that demonstrates how to create a drag-and-d
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/KrunalLathiya/react-drag-and-drop-list.git
+    git clone https://github.com/KrunalLathiya/ReactDragDrop.git
     ```
 2. Install the dependencies:
 
