@@ -8,22 +8,22 @@
     {
       "id": "2",
       "content": "Item 2",
-      "order": 4
+      "order": 2
     },
     {
       "id": "3",
       "content": "Item 3",
-      "order": 2
+      "order": 3
     },
     {
       "id": "4",
       "content": "Item 4",
-      "order": 3
+      "order": 4
     },
     {
       "id": "5",
       "content": "Item 5",
-      "order": 0
+      "order": 5
     }
   ]
 }
